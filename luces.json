@@ -1,0 +1,25 @@
+[
+    {
+        "id": 8,
+        "tipo": "luces LED",
+        "marca": "Sony",
+        "modelo": "K",
+        "precio": 10  
+      },
+      {
+        "id": 9,
+        "tipo": "flash externo",
+        "marca": "Yongnuo",
+        "modelo": "R",
+        "precio": 15  
+      },
+
+      {
+        "id": 10,
+        "tipo": "flash anular",
+        "marca": "Nikon",
+        "modelo": "Z",
+        "precio": 20  
+      }
+      
+]
