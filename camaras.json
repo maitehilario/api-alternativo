@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "marca": "Nikon",
+      "modelo": "D3200",
+      "precio": 40  
+    },
+    {
+        "id": 2,
+        "marca": "Canon",
+        "modelo": "EOS 5D Mark IV",
+        "precio": 60  
+      },
+      {
+        "id": 3,
+        "marca": "Sony",
+        "modelo": "A7 III",
+        "precio": 50  
+      }
+    
+]

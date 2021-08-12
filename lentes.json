@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "marca": "Nikon",
+        "modelo": "18-55mm",
+        "precio": 15  
+      },
+      {
+        "id": 5,
+        "marca": "Canon",
+        "modelo": "USM II 40mm",
+        "precio": 25  
+      },
+      {
+        "id": 6,
+        "marca": "Sigma",
+        "modelo": "Contemporary 150-600mm",
+        "precio": 40  
+      },
+      {
+        "id": 7,
+        "marca": "Tamron",
+        "modelo": "III-A RXD 11-20mm",
+        "precio": 55  
+      }
+]
